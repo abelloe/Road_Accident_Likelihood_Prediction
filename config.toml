@@ -1,0 +1,7 @@
+[theme]
+primaryColor="#38BDF8"                # Soft cyan for highlights
+backgroundColor="#0F172A"             # Deep navy background
+secondaryBackgroundColor="#1E293B"    # Slate sidebar/cards
+textColor="#F1F5F9"                   # Soft white text
+font="sans serif"
+
